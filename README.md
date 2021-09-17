@@ -35,3 +35,8 @@ We assume you have an server room or a data center rental, with some empty racks
 
 ## Deployment
 
+## References
+
+- [Kubespray](https://github.com/kubernetes-sigs/kubespray) A production grade k8s deployment tool, works with ansible
+- [Kubernetes Cluster Deployment on InfiniBand Fabric with RDMA Shared Device Plugin. ](https://docs.mellanox.com/pages/releaseview.action?pageId=18481842)
+
