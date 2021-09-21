@@ -23,6 +23,13 @@ We assume you have an server room or a data center rental, with some empty racks
   - low cost
   - no exception
 
+## Metrics
+
+- Capacity
+- Speed
+- Redundancy
+- Cost
+
 ## Design
 
 ### Physical
@@ -31,9 +38,15 @@ We assume you have an server room or a data center rental, with some empty racks
 
 ### Cluster Roles and Topo
 
-### Software stack selection
+### Software Stack Selection
+
+## Experiment
 
 ## Deployment
+
+## Benchmarking
+
+## Migration
 
 ## References
 
