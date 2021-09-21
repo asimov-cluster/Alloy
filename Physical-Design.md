@@ -8,6 +8,8 @@ Network is much more fundamental then other components, and it's usually not cha
 
 spine-leaf is pretty popular, the down side is it requires a lots of wires, maybe an issue when the cluster is getting a lots of nodes.
 
+It also require an overlay network like xvlan to deal with cross leaf switch networking.
+
 ### Device Selection
 
 - Networks for different purpose
@@ -58,6 +60,7 @@ spine-leaf is pretty popular, the down side is it requires a lots of wires, mayb
   - Leaf switch model
     
     TBD
+    
 ## Rack planing
 
 ## Node
